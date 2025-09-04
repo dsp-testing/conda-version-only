@@ -11,5 +11,5 @@ dependencies:
   - pycodestyle
   - wget
   - docopt
-  - deepdiff=8.6.0
+  - deepdiff=8.6.1
 prefix: /opt/anaconda3/envs/efffd
