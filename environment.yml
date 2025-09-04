@@ -1,0 +1,15 @@
+name: efffd
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - astropy
+  - scipy
+  - lightkurve
+  - pycodestyle
+  - wget
+  - docopt
+  - deepdiff=8.6.0
+prefix: /opt/anaconda3/envs/efffd
